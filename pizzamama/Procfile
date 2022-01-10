@@ -1,1 +1,1 @@
-web: gunicorn pizzamama.wsgi
+worker: python app.py
